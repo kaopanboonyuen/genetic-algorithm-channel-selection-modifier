@@ -7,7 +7,7 @@ This hub contains the modifier program of Sweta Shaw to perform channel selectio
 tmp_img = imread('Example.tiff');
 save('myTiff2mat','tmp_img');
 
-** where 'myTiff2mat' is file name you want to be e.g. change name to supernit 
+** where 'myTiff2mat' is file name you want to be e.g. change name to 'supernitza555'
 
 ### genetic_function.py
   - This is a utility file. It contains all the functions required to implement the genetic algorithm for band selection for hyperspectral images
