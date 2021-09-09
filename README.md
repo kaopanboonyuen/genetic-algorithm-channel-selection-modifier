@@ -5,6 +5,7 @@ This hub contains the modifier program of Sweta Shaw to perform channel selectio
 ### How to convert a .tif file into a .mat file?
 
 tmp_img = imread('Example.tiff');
+
 save('myTiff2mat','tmp_img');
 
 ** where 'myTiff2mat' is file name you want to be e.g. change name to 'supernitza555'
