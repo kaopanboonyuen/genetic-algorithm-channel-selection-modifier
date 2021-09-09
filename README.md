@@ -9,10 +9,10 @@ save('myTiff2mat','tmp_img');
 
 ** where 'myTiff2mat' is file name you want to be e.g. change name to supernit 
 
-### ga_utility.py
+### genetic_function.py
   - This is a utility file. It contains all the functions required to implement the genetic algorithm for band selection for hyperspectral images
 
-### geneticalgorithm.py
+### main.py
   - This file contains the driver code for running the program.
   
 - In this program we are selecting 15 bands out of 170 bands using genetic algorithm. 
